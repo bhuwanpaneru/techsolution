@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "softtech"
+    }
+  },
+  "defaultProject": "softtech",
+  "cli": {
+    "analytics": false
+  }
 }
